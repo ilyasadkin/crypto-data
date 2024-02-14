@@ -1,0 +1,10 @@
+{
+    "name": "ilasadkin/crypto-data",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ilasadkin\\CryptoData\\": "src/"
+        }
+    },
+    "require": {}
+}
