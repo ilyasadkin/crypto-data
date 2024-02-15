@@ -6,5 +6,7 @@
             "Ilasadkin\\CryptoData\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=8.1"
+    }
 }
